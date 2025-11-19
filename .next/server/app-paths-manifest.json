@@ -1,5 +1,8 @@
 {
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/request-quote/page": "app/request-quote/page.js",
-  "/icon.svg/route": "app/icon.svg/route.js"
+  "/vendors/page": "app/vendors/page.js",
+  "/categories/page": "app/categories/page.js",
+  "/request-quote/page": "app/request-quote/page.js"
 }
