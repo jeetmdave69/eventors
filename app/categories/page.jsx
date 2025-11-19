@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Suspense } from 'react'
 import { useSearchParams } from 'next/navigation'
 import CategoryCard from '@/components/CategoryCard'
 import VendorCard from '@/components/VendorCard'
@@ -54,7 +54,7 @@ const allCategories = [
   },
 ]
 
-export default function Categories() {
+function CategoriesContent() {
   const searchParams = useSearchParams()
   const selectedCategory = searchParams.get('category')
   const [categoryVendors, setCategoryVendors] = useState([])
@@ -115,6 +115,35 @@ export default function Categories() {
         </div>
       </div>
     </div>
+  )
+}
+
+export default function Categories() {
+  return (
+    <Suspense fallback={
+      <div className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 bg-gray-50 min-h-screen">
+        <div className="max-w-7xl mx-auto">
+          <div className="text-center mb-16">
+            <h1 className="text-5xl md:text-6xl font-bold text-secondary mb-4">All Categories</h1>
+            <p className="text-xl text-gray-600 font-medium">
+              Explore our wide range of event service categories
+            </p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {allCategories.map((category) => (
+              <CategoryCard
+                key={category.name}
+                category={category.name}
+                description={category.description}
+                imageUrl={category.imageUrl}
+              />
+            ))}
+          </div>
+        </div>
+      </div>
+    }>
+      <CategoriesContent />
+    </Suspense>
   )
 }
 
