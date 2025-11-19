@@ -1,0 +1,168 @@
+[
+  {
+    "id": "1",
+    "name": "Grand Ballroom Venue",
+    "category": "Wedding Venues",
+    "city": "New York, NY",
+    "rating": 4.8,
+    "priceRange": "$30k - $50k",
+    "description": "Elegant ballroom with crystal chandeliers and marble floors. Perfect for grand celebrations with capacity up to 500 guests. Features include bridal suite, outdoor garden, and premium catering kitchen.",
+    "image": "/img/venue1.jpg",
+    "tags": ["Indoor", "Outdoor", "Bridal Suite", "Parking", "Catering"]
+  },
+  {
+    "id": "2",
+    "name": "Gourmet Catering Co.",
+    "category": "Catering",
+    "city": "Los Angeles, CA",
+    "rating": 4.9,
+    "priceRange": "$100 - $200 per person",
+    "description": "Premium catering service specializing in farm-to-table cuisine. Customizable menus for any event size. Offers buffet, plated, and family-style service with vegan and gluten-free options.",
+    "image": "/img/catering1.jpg",
+    "tags": ["Buffet", "Plated", "Vegan Options", "Bar Service", "Custom Menus"]
+  },
+  {
+    "id": "3",
+    "name": "Luminous Photography",
+    "category": "Photography",
+    "city": "Chicago, IL",
+    "rating": 5.0,
+    "priceRange": "$3,500 - $6,000",
+    "description": "Award-winning wedding photographers capturing your special moments with artistic flair and attention to detail. Includes full day coverage, engagement shoot, and premium photo album.",
+    "image": "/img/photo1.jpg",
+    "tags": ["Full Day Coverage", "Engagement Shoot", "Photo Album", "Drone Footage", "Second Shooter"]
+  },
+  {
+    "id": "4",
+    "name": "Elegant Decor Studio",
+    "category": "Decoration",
+    "city": "Miami, FL",
+    "rating": 4.7,
+    "priceRange": "$5,000 - $10,000",
+    "description": "Transform any space into a magical setting with our premium decoration services. From minimalist to extravagant themes. Specializing in floral arrangements, lighting design, and custom backdrops.",
+    "image": "/img/decor1.jpg",
+    "tags": ["Floral Arrangements", "Lighting Design", "Table Settings", "Backdrop Design", "Custom Themes"]
+  },
+  {
+    "id": "5",
+    "name": "Glamour Makeup Artistry",
+    "category": "Makeup Artists",
+    "city": "San Francisco, CA",
+    "rating": 4.9,
+    "priceRange": "$400 - $800",
+    "description": "Professional makeup artists creating stunning looks for your special day. Specializing in natural and glamorous styles. Includes trial session, hair styling, and touch-ups throughout the event.",
+    "image": "/img/makeup1.jpg",
+    "tags": ["Bridal Makeup", "Hair Styling", "Trial Session", "Touch-ups", "Bridal Party"]
+  },
+  {
+    "id": "6",
+    "name": "SoundWave DJ Services",
+    "category": "Entertainment",
+    "city": "Austin, TX",
+    "rating": 4.8,
+    "priceRange": "$1,500 - $3,000",
+    "description": "Experienced DJs keeping your guests on the dance floor all night. Professional equipment and seamless transitions. Includes sound system, lighting effects, MC services, and playlist customization.",
+    "image": "/img/dj1.jpg",
+    "tags": ["Sound System", "Lighting Effects", "MC Services", "Playlist Customization", "Wireless Microphones"]
+  },
+  {
+    "id": "7",
+    "name": "Luxury Transport Co.",
+    "category": "Transport",
+    "city": "Las Vegas, NV",
+    "rating": 4.6,
+    "priceRange": "$800 - $1,500",
+    "description": "Arrive in style with our fleet of luxury vehicles. Professional chauffeurs ensuring a smooth and elegant experience. Options include limousines, vintage cars, and party buses.",
+    "image": "/img/transport1.jpg",
+    "tags": ["Limousine", "Vintage Cars", "Party Buses", "Airport Transfers", "Professional Chauffeurs"]
+  },
+  {
+    "id": "8",
+    "name": "Corporate Branding Experts",
+    "category": "Corporate Events",
+    "city": "Seattle, WA",
+    "rating": 4.7,
+    "priceRange": "$8,000 - $15,000",
+    "description": "Complete branding solutions for corporate events. From concept to execution, we bring your brand to life. Services include brand design, event signage, promotional materials, and digital displays.",
+    "image": "/img/corporate1.jpg",
+    "tags": ["Brand Design", "Event Signage", "Promotional Materials", "Digital Displays", "Brand Activation"]
+  },
+  {
+    "id": "9",
+    "name": "Wonderland Kids Events",
+    "category": "Kids Events",
+    "city": "Orlando, FL",
+    "rating": 4.9,
+    "priceRange": "$2,000 - $4,000",
+    "description": "Creating magical birthday parties and events for children. Themed experiences that kids will remember forever. Includes character entertainment, party games, themed decorations, and face painting.",
+    "image": "/img/kids1.jpg",
+    "tags": ["Character Entertainment", "Party Games", "Themed Decorations", "Face Painting", "Balloon Art"]
+  },
+  {
+    "id": "10",
+    "name": "Serenity Funeral Services",
+    "category": "Funeral Services",
+    "city": "Boston, MA",
+    "rating": 4.8,
+    "priceRange": "$6,000 - $10,000",
+    "description": "Compassionate and dignified funeral services. Helping families honor their loved ones with respect and care. Services include memorial planning, floral arrangements, catering, and transportation.",
+    "image": "/img/funeral1.jpg",
+    "tags": ["Memorial Planning", "Floral Arrangements", "Catering", "Transportation", "Grief Support"]
+  },
+  {
+    "id": "11",
+    "name": "Sweet Dreams Bakery",
+    "category": "Catering",
+    "city": "Portland, OR",
+    "rating": 4.9,
+    "priceRange": "$500 - $1,200",
+    "description": "Artisanal cakes and desserts crafted with premium ingredients. Custom designs to match your event theme perfectly. Offers custom cake design, cupcakes, dessert tables, and tasting sessions.",
+    "image": "/img/cake1.jpg",
+    "tags": ["Custom Cake Design", "Cupcakes", "Dessert Table", "Tasting Session", "Gluten-Free Options"]
+  },
+  {
+    "id": "12",
+    "name": "Perfect Day Planners",
+    "category": "Wedding Planning",
+    "city": "Nashville, TN",
+    "rating": 5.0,
+    "priceRange": "$10,000 - $15,000",
+    "description": "Full-service wedding planning from engagement to honeymoon. Stress-free planning ensuring your perfect day. Services include full planning, day-of coordination, vendor management, and timeline creation.",
+    "image": "/img/planner1.jpg",
+    "tags": ["Full Planning", "Day-of Coordination", "Vendor Management", "Timeline Creation", "Budget Planning"]
+  },
+  {
+    "id": "13",
+    "name": "Garden Estate Venue",
+    "category": "Wedding Venues",
+    "city": "Charleston, SC",
+    "rating": 4.7,
+    "priceRange": "$25k - $40k",
+    "description": "Historic estate with beautiful gardens and elegant interiors. Perfect for romantic outdoor ceremonies. Features include outdoor ceremony space, indoor reception hall, bridal suite, and full catering kitchen.",
+    "image": "/img/venue2.jpg",
+    "tags": ["Outdoor Ceremony", "Indoor Reception", "Bridal Suite", "Catering Kitchen", "Historic Property"]
+  },
+  {
+    "id": "14",
+    "name": "Capture Moments Studio",
+    "category": "Photography",
+    "city": "Denver, CO",
+    "rating": 4.8,
+    "priceRange": "$2,500 - $4,500",
+    "description": "Documentary-style photography capturing authentic moments. Natural light specialists with a modern aesthetic. Includes 8-hour coverage, second shooter, online gallery, and print rights.",
+    "image": "/img/photo2.jpg",
+    "tags": ["8-Hour Coverage", "Second Shooter", "Online Gallery", "Print Rights", "Documentary Style"]
+  },
+  {
+    "id": "15",
+    "name": "Elite Catering Services",
+    "category": "Catering",
+    "city": "Phoenix, AZ",
+    "rating": 4.6,
+    "priceRange": "$120 - $250 per person",
+    "description": "Upscale catering with international cuisine options. Professional service staff ensuring a seamless dining experience. Offers fine dining, cocktail hour, late night snacks, and dietary accommodations.",
+    "image": "/img/catering2.jpg",
+    "tags": ["Fine Dining", "Cocktail Hour", "Late Night Snacks", "Dietary Accommodations", "International Cuisine"]
+  }
+]
+

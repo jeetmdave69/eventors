@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="faviconGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#CBA86E" />
+      <stop offset="100%" stopColor="#B8945F" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with rounded corners -->
+  <rect width="32" height="32" rx="6" fill="url(#faviconGrad1)"/>
+  
+  <!-- Professional Letter E -->
+  <path d="M9 8h9a2.5 2.5 0 0 1 2.5 2.5v2H11v1.5h9.5v2H11v1.5h9.5v2a2.5 2.5 0 0 1-2.5 2.5H9V8z" fill="white" stroke="white" strokeWidth="0.5"/>
+</svg>
+

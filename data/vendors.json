@@ -1,0 +1,398 @@
+[
+  {
+    "id": "1",
+    "name": "Grand Ballroom Venue",
+    "category": "Wedding Venues",
+    "city": "Jayanagar, Bengaluru",
+    "price": "₹2,50,000 - ₹4,00,000",
+    "thumbnail": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop"
+    ],
+    "description": "Elegant ballroom with crystal chandeliers and marble floors. Perfect for grand celebrations with capacity up to 500 guests. Features include bridal suite, outdoor garden, and premium catering kitchen.",
+    "contact": {
+      "email": "info@grandballroom.com",
+      "phone": "+91 80 1234 5678"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Garden Estate Venue",
+    "category": "Wedding Venues",
+    "city": "Indiranagar, Bengaluru",
+    "price": "₹2,00,000 - ₹3,50,000",
+    "thumbnail": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop"
+    ],
+    "description": "Historic estate with beautiful gardens and elegant interiors. Perfect for romantic outdoor ceremonies. Features include outdoor ceremony space, indoor reception hall, and full catering kitchen.",
+    "contact": {
+      "email": "events@gardenestate.com",
+      "phone": "+91 80 2345 6789"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Luxury Palace Venue",
+    "category": "Wedding Venues",
+    "city": "Koramangala, Bengaluru",
+    "price": "₹3,00,000 - ₹5,00,000",
+    "thumbnail": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning palace-style venue with traditional architecture and modern amenities. Ideal for grand Indian weddings. Includes mandap setup, elegant reception space, and traditional decor options.",
+    "contact": {
+      "email": "weddings@luxurypalace.com",
+      "phone": "+91 80 3456 7890"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Gourmet Catering Co.",
+    "category": "Catering",
+    "city": "Whitefield, Bengaluru",
+    "price": "₹500 - ₹1,200 per person",
+    "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&h=600&fit=crop"
+    ],
+    "description": "Premium catering service specializing in authentic Indian cuisine and international dishes. Customizable menus for any event size. Offers buffet, plated, and traditional thali service with vegetarian and non-vegetarian options.",
+    "contact": {
+      "email": "info@gourmetcatering.com",
+      "phone": "+91 80 4567 8901"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Elite Catering Services",
+    "category": "Catering",
+    "city": "Malleswaram, Bengaluru",
+    "price": "₹600 - ₹1,500 per person",
+    "thumbnail": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&h=600&fit=crop"
+    ],
+    "description": "Upscale catering with North Indian, South Indian, and continental cuisine options. Professional service staff ensuring a seamless dining experience. Offers fine dining, cocktail hour, and traditional Indian sweets.",
+    "contact": {
+      "email": "events@elitecatering.com",
+      "phone": "+91 80 5678 9012"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Sweet Dreams Bakery",
+    "category": "Catering",
+    "city": "Basavanagudi, Bengaluru",
+    "price": "₹3,000 - ₹8,000",
+    "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&h=600&fit=crop"
+    ],
+    "description": "Artisanal cakes and desserts crafted with premium ingredients. Custom designs to match your event theme perfectly. Offers custom cake design, cupcakes, traditional Indian sweets, and dessert tables.",
+    "contact": {
+      "email": "orders@sweetdreamsbakery.com",
+      "phone": "+91 80 6789 0123"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Luminous Photography",
+    "category": "Photography",
+    "city": "HSR Layout, Bengaluru",
+    "price": "₹25,000 - ₹50,000",
+    "thumbnail": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&h=600&fit=crop"
+    ],
+    "description": "Award-winning wedding photographers capturing your special moments with artistic flair. Specializes in traditional Indian wedding ceremonies and modern celebrations. Includes full day coverage, pre-wedding shoot, and premium photo album.",
+    "contact": {
+      "email": "hello@luminousphoto.com",
+      "phone": "+91 80 7890 1234"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Capture Moments Studio",
+    "category": "Photography",
+    "city": "BTM Layout, Bengaluru",
+    "price": "₹20,000 - ₹40,000",
+    "thumbnail": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&h=600&fit=crop"
+    ],
+    "description": "Documentary-style photography capturing authentic moments. Natural light specialists with a modern aesthetic. Includes 8-hour coverage, second shooter, drone footage, and online gallery.",
+    "contact": {
+      "email": "info@capturemoments.com",
+      "phone": "+91 80 8901 2345"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Timeless Memories Photography",
+    "category": "Photography",
+    "city": "Rajajinagar, Bengaluru",
+    "price": "₹22,000 - ₹45,000",
+    "thumbnail": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop"
+    ],
+    "description": "Professional event photography with a focus on candid moments and emotional storytelling. Perfect for capturing the essence of Indian weddings, mehendi, sangeet, and other traditional ceremonies.",
+    "contact": {
+      "email": "contact@timelessmemories.com",
+      "phone": "+91 80 9012 3456"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Elegant Decor Studio",
+    "category": "Decoration",
+    "city": "Marathahalli, Bengaluru",
+    "price": "₹40,000 - ₹80,000",
+    "thumbnail": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop"
+    ],
+    "description": "Transform any space into a magical setting with premium decoration services. Specializes in traditional mandap decoration, floral arrangements, lighting design, and modern themes. Perfect for Indian weddings and celebrations.",
+    "contact": {
+      "email": "info@elegantdecor.com",
+      "phone": "+91 80 0123 4567"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Blossom Floral Design",
+    "category": "Decoration",
+    "city": "JP Nagar, Bengaluru",
+    "price": "₹25,000 - ₹60,000",
+    "thumbnail": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&h=600&fit=crop"
+    ],
+    "description": "Creative floral arrangements and event styling. Bringing your vision to life with fresh flowers, elegant centerpieces, marigold garlands, and stunning installations. Specializes in traditional and contemporary Indian wedding decor.",
+    "contact": {
+      "email": "hello@blossomfloral.com",
+      "phone": "+91 80 1234 5678"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Corporate Branding Experts",
+    "category": "Corporate Events",
+    "city": "Electronic City, Bengaluru",
+    "price": "₹60,000 - ₹1,20,000",
+    "thumbnail": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&h=600&fit=crop"
+    ],
+    "description": "Complete branding solutions for corporate events. From concept to execution, we bring your brand to life. Services include brand design, event signage, promotional materials, and digital displays for conferences and corporate gatherings.",
+    "contact": {
+      "email": "events@corporatebranding.com",
+      "phone": "+91 80 2345 6789"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Professional Event Solutions",
+    "category": "Corporate Events",
+    "city": "MG Road, Bengaluru",
+    "price": "₹80,000 - ₹1,50,000",
+    "thumbnail": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&h=600&fit=crop"
+    ],
+    "description": "Full-service corporate event planning and management. Specializing in conferences, product launches, annual meetings, and corporate galas. Professional team ensuring flawless execution with modern technology and traditional hospitality.",
+    "contact": {
+      "email": "info@proeventsolutions.com",
+      "phone": "+91 80 3456 7890"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Wonderland Kids Events",
+    "category": "Birthday Parties",
+    "city": "Banashankari, Bengaluru",
+    "price": "₹15,000 - ₹30,000",
+    "thumbnail": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&h=600&fit=crop"
+    ],
+    "description": "Creating magical birthday parties and events for children. Themed experiences that kids will remember forever. Includes character entertainment, party games, themed decorations, face painting, and traditional Indian party elements.",
+    "contact": {
+      "email": "parties@wonderlandkids.com",
+      "phone": "+91 80 4567 8901"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Party Magic Events",
+    "category": "Birthday Parties",
+    "city": "Hebbal, Bengaluru",
+    "price": "₹12,000 - ₹25,000",
+    "thumbnail": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511988617509-a57c8a288659?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&h=600&fit=crop"
+    ],
+    "description": "Fun-filled birthday celebrations with entertainment, decorations, and activities. From princess parties to superhero themes, we make every birthday special. Includes cake cutting ceremony, games, and party favors.",
+    "contact": {
+      "email": "info@partymagicevents.com",
+      "phone": "+91 80 5678 9012"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Serenity Funeral Services",
+    "category": "Funeral Services",
+    "city": "Yelahanka, Bengaluru",
+    "price": "₹50,000 - ₹80,000",
+    "thumbnail": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&h=600&fit=crop&q=80",
+      "https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+    ],
+    "description": "Compassionate and dignified funeral services. Helping families honor their loved ones with respect and care. Services include traditional funeral arrangements, floral tributes, transportation, and memorial ceremonies following Indian customs.",
+    "contact": {
+      "email": "support@serenityfunerals.com",
+      "phone": "+91 80 6789 0123"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Dignified Memorial Services",
+    "category": "Funeral Services",
+    "city": "Bannerghatta Road, Bengaluru",
+    "price": "₹45,000 - ₹1,00,000",
+    "thumbnail": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=600&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&h=600&fit=crop&q=80",
+      "https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+    ],
+    "description": "Professional funeral and memorial services with attention to detail and compassion. Providing support during difficult times with personalized ceremonies, traditional rituals, and arrangements respecting all religious customs.",
+    "contact": {
+      "email": "info@dignifiedmemorials.com",
+      "phone": "+91 80 7890 1234"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Glamour Makeup Artistry",
+    "category": "Mehendi / Makeup Artists",
+    "city": "Ulsoor, Bengaluru",
+    "price": "₹3,000 - ₹8,000",
+    "thumbnail": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&h=600&fit=crop"
+    ],
+    "description": "Professional makeup artists creating stunning looks for your special day. Specializing in traditional Indian bridal makeup, contemporary styles, and HD makeup. Includes trial session, hair styling, and touch-ups throughout the event.",
+    "contact": {
+      "email": "bookings@glamourmakeup.com",
+      "phone": "+91 80 8901 2345"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Bridal Beauty Studio",
+    "category": "Mehendi / Makeup Artists",
+    "city": "Sadashivanagar, Bengaluru",
+    "price": "₹4,000 - ₹10,000",
+    "thumbnail": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&h=600&fit=crop"
+    ],
+    "description": "Expert bridal makeup and mehendi services. Creating beautiful, long-lasting looks for brides and bridal parties. Specializes in traditional Indian bridal makeup, intricate mehendi designs, and contemporary beauty looks.",
+    "contact": {
+      "email": "hello@bridalbeautystudio.com",
+      "phone": "+91 80 9012 3456"
+    }
+  },
+  {
+    "id": "20",
+    "name": "SoundWave DJ Services",
+    "category": "Entertainment",
+    "city": "RT Nagar, Bengaluru",
+    "price": "₹12,000 - ₹25,000",
+    "thumbnail": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=600&fit=crop"
+    ],
+    "description": "Experienced DJs keeping your guests on the dance floor all night. Professional equipment and seamless transitions. Includes sound system, lighting effects, MC services, and playlist customization with Bollywood, regional, and international music.",
+    "contact": {
+      "email": "bookings@soundwavedj.com",
+      "phone": "+91 80 0123 4567"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Elite Entertainment Group",
+    "category": "Entertainment",
+    "city": "Jayanagar, Bengaluru",
+    "price": "₹15,000 - ₹30,000",
+    "thumbnail": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=600&fit=crop"
+    ],
+    "description": "Complete entertainment solutions including DJ services, live music, and lighting design. Creating unforgettable experiences with professional sound and visual effects. Specializes in Indian wedding entertainment with traditional and modern music.",
+    "contact": {
+      "email": "info@eliteentertainment.com",
+      "phone": "+91 80 1234 5678"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Party Lights & Sound",
+    "category": "Entertainment",
+    "city": "Vijayanagar, Bengaluru",
+    "price": "₹10,000 - ₹25,000",
+    "thumbnail": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=600&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&h=600&fit=crop"
+    ],
+    "description": "Professional DJ and lighting services for all events. State-of-the-art equipment and experienced entertainers. Custom playlists and lighting designs to match your event theme. Specializes in sangeet, reception, and party entertainment.",
+    "contact": {
+      "email": "book@partylightsound.com",
+      "phone": "+91 80 2345 6789"
+    }
+  }
+]

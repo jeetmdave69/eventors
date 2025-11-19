@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-light text-neutral-700 font-sans antialiased;
+  }
+
+  h1 {
+    @apply text-5xl font-bold text-accent;
+  }
+
+  h2 {
+    @apply text-4xl font-semibold text-accent;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold text-accent;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
